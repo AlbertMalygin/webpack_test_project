@@ -1,3 +1,3 @@
-const { calc } = require("./calc");
+import { calc } from "./calc";
 
 console.log(calc(5, 5));
